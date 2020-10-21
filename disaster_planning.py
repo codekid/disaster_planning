@@ -206,7 +206,6 @@ def main():
 		password="p@$$w0rd", 
 		host="localhost", 
 		database="test")
-	# conn = pyodbc.connect('DRIVER={SQL Server};SERVER=LAPTOP-QJCFBNNV;DATABASE=Disaster_Planning;Trusted_Connection=yes')
 
 
 	print ("Getting the file names to be extracted.")
